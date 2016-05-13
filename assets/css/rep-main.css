@@ -1,0 +1,282 @@
+.remodal {
+  text-align: left;
+}
+
+
+
+.rep-student-column-wrap, .rep-pro-student-list {
+    margin-left: -2%;
+    overflow: hidden;
+}
+.rep-students-column {
+    border: 1px solid #ddd;
+    float: left;
+    margin-bottom: 2%;
+    margin-left: 2%;
+    padding: 10px;box-sizing: border-box
+    
+}
+
+.rep-one-column {width: 98%;}
+.rep-two-columns {width: 48%;}
+.rep-three-columns {width: 31.33333%;}
+.rep-four-columns {width: 23%;}
+
+.rep-student-column-wrap p {
+    margin: 0;
+}
+.rep-student-column-wrap .rep-single-student-item h4 {
+    margin: 0 0 10px;
+}
+
+
+
+
+.rep-pro-student-list .rep-students-column .rep-single-prostudent-item h4 {
+    margin: 58px 0 10px;
+}
+.rep-pro-student-list .rep-single-prostudent-item {
+    font-size: 12px;
+    position: relative;
+    text-align: center;
+}
+.rep-pro-student-list .rep-single-prostudent-item p{margin: 0 0 10px}
+.rep-pro-student-list .rep-single-prostudent-item img {
+    border: 1px solid #ddd;
+    border-radius: 50%;
+    left: 50%;
+    margin-left: -50px;
+    position: absolute;
+    top: -117px;
+    width: 100px;
+}
+.rep-pro-student-list .rep-students-column {
+    margin-top: 68px;
+}
+.rep-student-column-wrap .rep-single-student-item p{
+    margin: 0 0 10px;
+}
+
+
+
+
+.rep-shortcode-wrapper table.rep-boxed-table {
+    border-bottom: 1px solid #ddd;
+    border-left: 1px solid #ddd;
+    margin: 0;
+}
+.rep-shortcode-wrapper table.rep-boxed-table td, .rep-shortcode-wrapper table.rep-boxed-table th {
+    border-right: 1px solid #ddd;
+    border-top: 1px solid #ddd;
+    padding: 10px;
+    vertical-align: middle;
+}
+.rep-shortcode-wrapper table.rep-boxed-table .rep-teacher-list-photo {
+    width: 70px;
+}
+.rep-shortcode-wrapper table.rep-boxed-table .rep-teacher-list-date, .rep-shortcode-wrapper table.rep-boxed-table .rep-teacher-list-designation, .rep-shortcode-wrapper table.rep-boxed-table .rep-teacher-list-enddate {
+    width: 115px; text-align: center
+}
+.rep-shortcode-wrapper table.rep-boxed-table th {
+    background: #666 none repeat scroll 0 0;
+    color: #fff;
+}
+
+
+.rep-shortcode-wrapper.rep-next-page-activate {
+    padding-bottom: 50px;
+    position: relative;
+}
+.rep-shortcode-wrapper.rep-next-page-activate .rep-next-page, .rep-shortcode-wrapper.rep-next-page-activate #infscr-loading {
+    bottom: 0;
+    left: 0;
+    line-height: 40px;
+    position: absolute;
+}
+
+
+.rep-shortcode-wrapper .rep-next-page a {
+    border: 1px solid #ddd;
+    color: #666;
+    display: inline-block;
+    line-height: 25px;
+    padding: 2px 20px;
+    text-decoration: none;
+}
+
+
+
+
+.rep-shortcode-wrapper ul.rep-notices-list {
+    list-style: outside none none;
+    margin: 0;
+    padding: 0;
+}
+.rep-shortcode-wrapper ul.rep-notices-list li {
+    margin: 0;
+}
+.rep-shortcode-wrapper ul.rep-notices-list li a {
+    border-bottom: 1px solid #ddd;
+    display: block;
+    padding: 7px 0;
+    text-decoration: none;
+}
+.rep-shortcode-wrapper ul.rep-notices-list li a span {
+    font-size: 70%;
+    opacity: 0.5;
+}
+
+.rep-notice-content {
+  line-height: 23px;
+  margin-top: 15px;
+}
+
+
+.rep-vacency-list-subject, .rep-vacency-list-date, .rep-committee-list-enddate, .rep-committee-list-startdate, .rep-employee-list-date, .rep-employee-list-designation {
+  width: 115px;
+  text-align: center;
+}
+
+
+.rep-result-content table {
+    width: 100%;
+}
+.rep-result-content {
+    margin-top: 15px;
+}
+
+
+
+.rep-committee-list-photo {
+    width: 70px;
+}
+.rep-committee-list-designation {
+    width: 90px;
+}
+
+
+
+.rep-photogallery-list {
+    margin-left: -2%;
+    overflow: hidden;
+}
+.rep-single-photo-gallery {
+    box-sizing: border-box;
+    float: left;
+    margin-left: 2%;margin-bottom: 2%
+}
+
+
+.rep-photogallery-list .rep-single-gallery-inner h3 {
+    line-height: 20px;
+    margin: 0 0 5px;
+}
+.rep-photogallery-list .rep-single-gallery-inner p {
+    margin-bottom: 0;
+}
+.rep-gallery-desc-inner {
+    font-size: 80%;
+    margin-top: 10px;
+}
+
+
+
+.rep-calendar .fc-event-container .fc-event {
+    border-radius: 0;
+    color: #fff;
+    margin: 0;
+    padding: 2px;border: none
+}
+.rep-calendar .fc-event-container {
+    padding: 0 0 2px;
+}
+.rep-calendar .fc-event-container .fc-event.theme-1, ul.rep-calendar-legends li.rep-legend-color-1:before {background-color: #1abc9c
+}
+.rep-calendar .fc-event-container .fc-event.theme-2, ul.rep-calendar-legends li.rep-legend-color-2:before {background-color: #9b59b6
+}
+.rep-calendar .fc-event-container .fc-event.theme-3, ul.rep-calendar-legends li.rep-legend-color-3:before {background-color: #4aa3df
+}
+.rep-calendar .fc-event-container .fc-event.theme-4, ul.rep-calendar-legends li.rep-legend-color-4:before {background-color: #e67e22
+}
+.rep-calendar .fc-event-container .fc-event.theme-5, ul.rep-calendar-legends li.rep-legend-color-5:before {background-color: #2c3e50
+}
+
+.rep-calendar .fc-row.fc-widget-header table {
+  margin: 0;
+}
+
+
+.rep-calendar-legends {
+    list-style: outside none none;
+    margin: 0 0 20px;
+    overflow: hidden;
+    padding: 0;
+}
+ul.rep-calendar-legends li {
+  float: left;
+  list-style: outside none none;
+  margin: 0;
+  padding-left: 30px;
+  position: relative;
+  width: 20%;box-sizing: border-box
+}
+ul.rep-calendar-legends li::before {
+    content: "";
+    height: 20px;
+    left: 0;
+    position: absolute;
+    top: 2.5px;
+    width: 20px;
+}
+
+
+
+.single-attendance-column {
+    border: 1px solid #ddd;
+    padding: 10px;
+}
+.single-attendance-column p {
+    margin: 0;
+    text-align: right;
+}
+.single-attendance-column h3 {
+    font-size: 20px;
+}
+.single-attendance-column span {
+    display: block;
+    float: left;
+    text-align: left;
+    width: 195px;
+}
+
+.rep-calendar .fc-toolbar .fc-center h2 {
+  margin: 0;
+}
+
+
+.remodal-content {
+    line-height: 22px;
+    margin-top: 15px;
+}
+.publish-date {
+    font-size: 80%;
+    margin-top: 7px;
+}
+.remodal h2 {
+    font-size: 22px;
+    margin: 0 0 15px;
+}
+.rep-attendance-column {
+    line-height: 22px;
+    margin-left: -3%;
+    overflow: hidden;
+}
+.rep-single-attendance-column {
+    border: 1px solid #ddd;
+    box-sizing: border-box;
+    float: left;
+    margin-left: 3%;
+    margin-top: 3%;
+    padding: 15px;
+    width: 30%;
+}
